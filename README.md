@@ -1,6 +1,6 @@
 ## Java Script Forkify app
 
-This app loads recipes from the <a href="https://forkify-api.herokuapp.com/" target="_blank">Forkify</a>API.
+This app loads recipes from the <a href="https://forkify-api.herokuapp.com/" target="_blank">Forkify</a> API.
 
 When the page loads, allows users to search for a recipe for example, pasta. Users can like the recipe which is added on my shopping list. Recipes can be removed from the list when users dislike the recipe. Enjoy your meal!
 
