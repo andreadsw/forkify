@@ -18,4 +18,4 @@ You will also see any lint errors in the console.
 
 ## Demo Forkify app
 
-See demo: <a href="#" target="_blank">Forkify app</a>
+See demo: <a href="https://forkify-recipe2.netlify.app/" target="_blank">Forkify app</a>
