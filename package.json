@@ -28,6 +28,7 @@
     "babel-polyfill": "^6.26.0",
     "fractional": "^1.0.0",
     "live-server": "^1.2.1",
-    "uniqid": "^5.2.0"
+    "uniqid": "^5.2.0",
+    "websocket-extensions": "^0.1.4"
   }
 }
